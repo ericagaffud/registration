@@ -1,0 +1,462 @@
+{
+  "offices": [
+    {
+      "office_id": 7,
+      "name": "Provincial Assessor's Office",
+      "abbreviation": "ASSESSOR",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 12,
+      "name": "Chief of Staff Office",
+      "abbreviation": "COS",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 32,
+      "name": "Cagayan Provincial Jail",
+      "abbreviation": "CPJ",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 22,
+      "name": "Cagayan Provincial Learning and Resource Office",
+      "abbreviation": "CPLRC",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 23,
+      "name": "Cagayan Sports Complex",
+      "abbreviation": "CSC",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 9,
+      "name": "Cagayan Tourism Office",
+      "abbreviation": "CTO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 10,
+      "name": "Local Economic and Investment Promotion Office",
+      "abbreviation": "EEO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 11,
+      "name": "Governor's Office",
+      "abbreviation": "GO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 21,
+      "name": "General Services Office",
+      "abbreviation": "GSO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 19,
+      "name": "Human Resource and Management Office",
+      "abbreviation": "HRMO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 2,
+      "name": "Provincial Motorpool Office",
+      "abbreviation": "MOTORPOOL",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 31,
+      "name": "Cagayan Provincial Museum",
+      "abbreviation": "MUSEUM",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 18,
+      "name": "Office of the Provincial Agriculturist",
+      "abbreviation": "OPA",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 17,
+      "name": "Provincial Administrator's Office",
+      "abbreviation": "PA",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 4,
+      "name": "Provincial Accountant's Office",
+      "abbreviation": "PAO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 5,
+      "name": "Provincial Budget's Office",
+      "abbreviation": "PBO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 24,
+      "name": "Provincial Disaster and Risk Reduction Management Office",
+      "abbreviation": "PDRRMO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 1,
+      "name": "Provincial Engineer's Office",
+      "abbreviation": "PEO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 33,
+      "name": "Public Employment Service Office",
+      "abbreviation": "PESO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 15,
+      "name": "Provincial Health Office",
+      "abbreviation": "PHO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 13,
+      "name": "Provincial Information Office",
+      "abbreviation": "PIO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 20,
+      "name": "Provincial Legal Office",
+      "abbreviation": "PLO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 3,
+      "name": "Provincial Natural Resources and Environment Office",
+      "abbreviation": "PNREO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 8,
+      "name": "Provincial Office for People Empowerment",
+      "abbreviation": "POPE",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 14,
+      "name": "Provincial Planning and Development Office",
+      "abbreviation": "PPDO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 16,
+      "name": "Provincial Social and Welfare Development Office",
+      "abbreviation": "PSWDO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 6,
+      "name": "Provincial Treasurer's Office",
+      "abbreviation": "PTO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 30,
+      "name": "Provincial Veterinary's Office",
+      "abbreviation": "PVET",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 26,
+      "name": "Quick Reaction Team",
+      "abbreviation": "QRT",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 28,
+      "name": "Office of the Sanggunian Panlalawigan",
+      "abbreviation": "SP",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 29,
+      "name": "Office of the Sanggunian Panlalawigan - Secretariat",
+      "abbreviation": "SP - Secretariat",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 25,
+      "name": "Task Force Lingkod Cagayan",
+      "abbreviation": "TFLC",
+      "enterprise_id": 1,
+      "unit_category": 5
+    },
+    {
+      "office_id": 27,
+      "name": "Vice Governor's Office",
+      "abbreviation": "VGO",
+      "enterprise_id": 1,
+      "unit_category": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 65191,
+      "username": "rosemarieduran",
+      "id_number": "4145425",
+      "password": "adsfafjas",
+      "fullname": "Rose Marie L. Duran",
+      "job": "Assistant Manager",
+      "office": "Cagayan Provincial Museum"
+    },
+    {
+      "id": 22615,
+      "username": "raffy",
+      "id_number": "78526",
+      "password": "adsjadskj",
+      "fullname": "Raffy D. Licayo",
+      "job": "Technician",
+      "office": "Cagayan Tourism Office"
+    },
+    {
+      "id": 19231,
+      "username": "deng",
+      "id_number": "458952",
+      "password": "ashsaj",
+      "fullname": "Danny Gal",
+      "job": "Programmer",
+      "office": "Provincial Information Office"
+    },
+    {
+      "id": 26422,
+      "username": "rhinrhin",
+      "id_number": "45658",
+      "password": "asdfgh",
+      "fullname": "Irene Maruquin",
+      "job": "Developer",
+      "office": "Chief of Staff Office"
+    },
+    {
+      "id": 87580,
+      "username": "eerah",
+      "id_number": "298765",
+      "password": "anita",
+      "fullname": "Eerah Anita",
+      "job": "Assistant Manager",
+      "office": "Chief of Staff Office"
+    },
+    {
+      "id": 19353,
+      "username": "Vonali",
+      "id_number": "364756",
+      "password": "vonali",
+      "fullname": "Von Alisandra",
+      "job": "Writer",
+      "office": "Provincial Information Office"
+    },
+    {
+      "id": 67572,
+      "username": "noeld",
+      "id_number": "547896",
+      "password": "dikokayahahaha",
+      "fullname": "Noel Dimalansala",
+      "job": "Executive Officer",
+      "office": "Provincial Veterinary's Office"
+    },
+    {
+      "id": 69645,
+      "username": "roseann",
+      "id_number": "456123",
+      "password": "pangoako",
+      "fullname": "Rose Ann Pillien",
+      "job": "Care Taker",
+      "office": "Provincial Health Office"
+    },
+    {
+      "id": 80729,
+      "username": "junjun",
+      "id_number": "5398",
+      "password": "pogi",
+      "fullname": "junjun gaffud",
+      "job": "ceo",
+      "office": "Vice Governor's Office"
+    },
+    {
+      "id": 27769,
+      "username": "magdalena",
+      "id_number": "564926",
+      "password": "asdfgh",
+      "fullname": "Magdalena Maximo",
+      "job": "Vice-Manager",
+      "office": "Provincial Engineer's Office"
+    },
+    {
+      "id": 6494,
+      "username": "joyjoy",
+      "id_number": "557744",
+      "password": "christine",
+      "fullname": "Christine Joy",
+      "job": "Executive Officer",
+      "office": "Provincial Budget's Office"
+    },
+    {
+      "id": 97529,
+      "username": "densui",
+      "id_number": "789523",
+      "password": "asdfgh",
+      "fullname": "Den Gamboa",
+      "job": "CEO",
+      "office": "Governor's Office"
+    },
+    {
+      "id": 53535,
+      "username": "ERICAGAFFUD",
+      "id_number": "47854",
+      "password": "asdfgh",
+      "fullname": "Erica Gaffud",
+      "job": "CEO",
+      "office": "Governor's Office"
+    },
+    {
+      "id": 25759,
+      "username": "joelma",
+      "id_number": "55986",
+      "password": "gaffud",
+      "fullname": "Joel Mandane",
+      "job": "VP for Membership",
+      "office": "General Services Office"
+    },
+    {
+      "id": 74974,
+      "username": "belinda",
+      "id_number": "021006",
+      "password": "sakinlangsidonato",
+      "fullname": "Belle Mariano",
+      "job": "Artist",
+      "office": "Provincial Planning and Development Office"
+    },
+    {
+      "id": 79228,
+      "username": "donato",
+      "id_number": "021006",
+      "password": "sibelindaayakin",
+      "fullname": "Donny Pangilinan",
+      "job": "Executive Artist",
+      "office": "Provincial Disaster and Risk Reduction Management Office"
+    },
+    {
+      "id": 4395,
+      "username": "jmae",
+      "id_number": "778410",
+      "password": "marayag",
+      "fullname": "Joana Mae Marayag",
+      "job": "Model",
+      "office": "Cagayan Tourism Office"
+    },
+    {
+      "id": 51116,
+      "username": "reyhel",
+      "id_number": "633210",
+      "password": "common",
+      "fullname": "Reyhel S. Lamug",
+      "job": "Journalist",
+      "office": "Provincial Information Office"
+    },
+    {
+      "id": 51308,
+      "username": "kristine",
+      "id_number": "42139",
+      "password": "samson",
+      "fullname": "Kristine Marie",
+      "job": "VP for Audit",
+      "office": "Provincial Budget's Office"
+    },
+    {
+      "id": 79902,
+      "username": "ecag",
+      "id_number": "7855",
+      "password": "adhsa",
+      "fullname": "Eca Duran",
+      "job": "Chief",
+      "office": "Provincial Engineer's Office"
+    },
+    {
+      "id": 61786,
+      "username": "ecacarot",
+      "id_number": "452421",
+      "password": "asadsj",
+      "fullname": "erica duran gaffud",
+      "job": "CEO",
+      "office": "Cagayan Provincial Museum"
+    },
+    {
+      "id": 63357,
+      "username": "ericag",
+      "id_number": "784562",
+      "password": "asdfgh",
+      "fullname": "Erica Gaffud",
+      "job": "CEO",
+      "office": "Provincial Information Office"
+    },
+    {
+      "id": 21992,
+      "username": "tintin",
+      "id_number": "154897",
+      "password": "akoooo",
+      "fullname": "Christine Dumlao",
+      "job": "Vice",
+      "office": "Provincial Administrator's Office"
+    },
+    {
+      "id": 71861,
+      "username": "bandong",
+      "id_number": "25739",
+      "password": "gagaga",
+      "fullname": "Mark Christian",
+      "job": "Staff",
+      "office": "Provincial Accountant's Office"
+    },
+    {
+      "id": 12196,
+      "username": "janong",
+      "id_number": "114545",
+      "password": "janong",
+      "fullname": "John Lloyd",
+      "job": "VP Membership",
+      "office": "Chief of Staff Office"
+    }
+  ]
+}
